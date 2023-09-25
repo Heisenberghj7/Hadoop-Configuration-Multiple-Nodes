@@ -1,1 +1,2 @@
-# Hadoop-Configuration-Multiple-Nodes
+# `Hadoop Configuration Multiple Nodes` 🐘
+<img src="hadoop.svg.png">
